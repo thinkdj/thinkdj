@@ -1,7 +1,10 @@
 ### Featured
 
-[refreshie.think.dj](https://refreshie.think.dj)
+**WFH fatigue-buster**
 
+Download your free copy from: [http://refreshie.think.dj/](https://refreshie.think.dj/)
+
+![Refreshie](./assets/images/refreshie-hero-img.png)
 
 <!--
 **thinkdj/thinkdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
