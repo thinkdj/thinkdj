@@ -2,7 +2,7 @@
 
 Download your free copy from [https://refreshie.think.dj/](https://refreshie.think.dj/)
 
-[![Refreshie](https://i.ibb.co/tcGHdvp/refreshie-hero.png)](https://refreshie.think.dj/)
+[![Refreshie](https://archive.think.dj/projects/refreshie/assets/refreshie.intro.gh.png)](https://refreshie.think.dj/)
 
 <!--
 **thinkdj/thinkdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
