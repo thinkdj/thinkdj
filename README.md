@@ -2,6 +2,8 @@
 
 [![Ottabase Framework for Solo Founders](https://ottabase-homepage.apiary.workers.dev/ottabase.com.dark.png)](https://ottabase.dev/)
 
+
+Ottabase lets you build anything, hernessing the power of AI for coding, and Cloudflare's infrastructure for near-infinite scale. Idea to product over a weekend is definitely a reality. 
 [https://ottabase.dev/](https://ottabase.dev/)
 
 <!--
