@@ -1,10 +1,9 @@
 #### Featured Project: ⚡Ottabase⚡lets YOU make ANYTHING 
 
 Ottabase is an open-source, Cloudflare-native framework for building multi-tenant SaaS apps fast, with OttaORM, integrated UI tooling, and production-ready platform primitives.
-Build anything, really! Idea to product over a weekend is definitely a reality with [https://ottabase.dev](ottabase).
+Build anything, really! Idea to product over a weekend is definitely a reality with [ottabase](https://ottabase.dev).
 
 [![Ottabase Framework for Solo Founders](https://ottabase-homepage.apiary.workers.dev/ottabase.com.dark.png)](https://ottabase.dev/)
-
 
 <!--
 #### Featured Project: ⚡Refreshie⚡ A **WFH fatigue-buster** app for a healthier you
